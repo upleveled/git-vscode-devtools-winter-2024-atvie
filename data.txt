@@ -1,0 +1,17 @@
+car
+home
+comb
+bike
+home
+home
+
+
+Elephant
+Cat
+Dog
+Rabbit
+
+
+Ben
+Jack
+Seed
